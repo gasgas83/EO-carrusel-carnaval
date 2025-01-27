@@ -16,6 +16,8 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
+    "dayjs": "^1.11.13",
+    "flickity": "^3.0.0",
     "vite-plugin-full-reload": "^1.2.0"
   }
 }
